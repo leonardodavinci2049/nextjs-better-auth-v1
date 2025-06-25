@@ -44,3 +44,5 @@ new-project.md
 rest-client.http
 .github
 
+
+/src/generated/prisma
